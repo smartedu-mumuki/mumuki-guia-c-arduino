@@ -1,0 +1,10 @@
+---
+name: Arduino
+locale: es
+type: learning
+beta: false
+teacher_info: 'Bienvenido! Esto viene a ser la primer guía de Arduino, un acercamiento
+  a este lenguaje, que te permitira controlar componentes fisicos '
+language: c
+id_format: '%05d'
+order: []
