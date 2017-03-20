@@ -1,1 +1,1 @@
-Una nueva guia de arduino super importante  
+Introducción al uso de Arduino y sus estructuras básicas. 
